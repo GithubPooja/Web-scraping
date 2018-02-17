@@ -1,3 +1,3 @@
 # Web-scraping
 
-Scrapping data from urls
+Scraping data from web
